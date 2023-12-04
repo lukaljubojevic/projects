@@ -1,4 +1,4 @@
-# Seminarski rad APVO
+# ML za otkrivanje DoS napada
 
 ## Uvod
 
